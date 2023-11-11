@@ -1,0 +1,19 @@
+# dependencies
+/node_modules
+
+# production build
+/build
+
+# development build
+/.next
+/.parcel-cache
+
+# IDE files
+/.idea
+/.vscode
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
