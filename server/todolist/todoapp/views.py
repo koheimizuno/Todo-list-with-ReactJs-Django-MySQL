@@ -18,7 +18,7 @@ def get_csrf_token(request):
 
 
 def save(request):
-    
+
     print(request)
     
     if request.method == "POST":
